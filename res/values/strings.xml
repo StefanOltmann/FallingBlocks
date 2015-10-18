@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Falling Blocks</string>
+    <string name="punkte">Punkte</string>
+    <string name="level">Level</string>
+    <string name="reihen">Reihen</string>
+    <string name="game_over">Game Over!</string>
+</resources>
